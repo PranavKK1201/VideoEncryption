@@ -1,0 +1,12 @@
+opencv-python
+numpy
+Pillow
+reportlab
+PyPDF2
+fitz
+img2pdf
+
+
+
+
+
